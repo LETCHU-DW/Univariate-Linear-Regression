@@ -46,11 +46,6 @@ plt.plot([min(X),max(X)], [min(Y_pred), max(Y_pred)],color='red')
 plt.show()
 ```
 
-
-
-
-
-```
 ## Output
 </br>
 <img width="720" height="533" alt="image" src="https://github.com/user-attachments/assets/832283a4-0bd9-436e-8d4a-1a611687246a" />
